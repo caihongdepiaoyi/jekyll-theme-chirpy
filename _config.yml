@@ -163,7 +163,7 @@ defaults:
       dynamic_title: true    # Hide title in mobile screens.
       breadcrumb:
         -
-          label: 主页
+          label: Home
           url: /
 
 sass:
