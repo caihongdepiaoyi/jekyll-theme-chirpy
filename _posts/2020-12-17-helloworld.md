@@ -16,7 +16,7 @@ tags: [日记]
 
 等寒假自己重写一下，再自己买个服务器，弄个域名，就ojbk了**！！！**
 
-博客搭建自https://github.com/cotes2020/jekyll-theme-chirpy
+博客搭建自 [jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
 
 ![](https://images3.alphacoders.com/847/847499.png)
 
